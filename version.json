@@ -1,0 +1,8 @@
+﻿{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/uzair2444/Musify/releases/latest/download/Musify.apk",
+  "changelog": "Initial stable release of Musify with YouTube streaming, offline MP3/MP4 downloads, background playback, and swipe-down player.",
+  "isMandatory": false,
+  "minSdk": 26
+}
